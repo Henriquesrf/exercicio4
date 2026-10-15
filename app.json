@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Atividade Aluno Ternario",
+    "slug": "atividade-aluno-ternario",
+    "scheme": "alunoternario",
+    "plugins": [
+      "expo-router"
+    ],
+    "android": {
+      "package": "com.atividade.alunoternario"
+    }
+  }
+}
